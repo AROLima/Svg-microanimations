@@ -28,3 +28,7 @@ body {
  .home-title, .notifications-title, .messages-title{
   padding-left: 2rem;
  }
+
+.notifications-svg, .messages-svg{
+  overflow: visible;
+}
